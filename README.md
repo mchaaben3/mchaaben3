@@ -1,4 +1,4 @@
-[[Mahdi's GitHub Banner](./assets/1156488.png)]
+(./assets/1156488.png)
 
 # Hi there, I'm Mahdi   👋 👋 
 
