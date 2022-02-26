@@ -1,9 +1,8 @@
-[![Braydon's GitHub Banner](./assets/1156488.png)]
+[![Mahdi's GitHub Banner](./assets/1156488.png)]
 
 # Hi there, I'm Mahdi   👋 👋 
 
 
-<br />
 <br />
 <br />
 <br />
