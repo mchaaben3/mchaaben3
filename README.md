@@ -22,7 +22,7 @@
 
 
 [![website](./assets/linkedin-light.svg)](https://www.linkedin.com/in/mahdi-chaaben-4a0815159)
-[![website](./assets/linkedin-dark.svg)](https://www.linkedin.com/in/mahdi-chaaben-4a0815159)
+<!-- [![website](./assets/linkedin-dark.svg)](https://www.linkedin.com/in/mahdi-chaaben-4a0815159) -->
 
 
 ### Languages and Tools:
