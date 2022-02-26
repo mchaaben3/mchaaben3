@@ -21,7 +21,7 @@
 ### Connect with me:
 
 
-[![website](./assets/linkedin-light.svg)](https://www.linkedin.com/in/mahdi-chaaben-4a0815159#gh-light-mode-only)
+[![website](./assets/linkedin-light.svg)](https://www.linkedin.com/in/mahdi-chaaben-4a0815159#gh-dark-mode-only)
 [![website](./assets/linkedin-dark.svg)](https://www.linkedin.com/in/mahdi-chaaben-4a0815159#gh-dark-mode-only)
 
 
