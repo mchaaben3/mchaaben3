@@ -1,3 +1,5 @@
+[![Braydon's GitHub Banner](./assets/1156488.png)]
+
 # Hi there, I'm Mahdi   👋 👋 
 
 
