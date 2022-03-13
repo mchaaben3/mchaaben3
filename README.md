@@ -1,4 +1,4 @@
-<img src="./assets/12.jpg" height="20%" />
+<img src="./assets/12.jpg" height="10%" />
 
 # Hi there, I'm Mahdi   👋 👋 
 
