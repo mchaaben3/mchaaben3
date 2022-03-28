@@ -1,7 +1,7 @@
 # Hi there, I'm Mahdi   👋 👋 
 
 
-<img src="./assets/12.jpg" width="10px" />
+<img src="./assets/12.jpg" width="350px" />
 
 
 
