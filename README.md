@@ -1,12 +1,6 @@
 # Hi there, I'm Mahdi   👋 👋 
 
 
-<img src="./assets/12.jpg" height="150px" />
-
-
-
-
-<br />
 <br />
 <br />
 
