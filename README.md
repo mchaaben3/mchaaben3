@@ -45,8 +45,6 @@
 <br />
 <br />
 
-
-<p align="center" ><img  src="https://github-readme-streak-stats.herokuapp.com/?user=mchaaben3&theme=dark" alt="mchaaben3" /></p>
-
-
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mchaaben3&theme=leafy&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+[![GitHub Streak](https://komarev.com/ghpvc/?username=mchaaben3&label=Profile%20views&color=080505&style=flat)
