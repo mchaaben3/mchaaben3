@@ -48,4 +48,4 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mchaaben3&theme=leafy&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 
-<img align="left" src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/laravel.svg](https://komarev.com/ghpvc/?username=mchaaben3&label=Profile%20views&color=080505&style=flat"/>
+<img align="left" src="https://komarev.com/ghpvc/?username=mchaaben3&label=Profile%20views&color=080505&style=flat"/>
