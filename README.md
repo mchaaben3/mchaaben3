@@ -7,7 +7,7 @@
 
 
 
-## I'm a Developer, Taxi Driver,  and Driving instructor!!
+## I'm a Full-Stack web  Developer
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other Developers
@@ -48,4 +48,3 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mchaaben3&theme=leafy&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 
-<img align="left" src="https://komarev.com/ghpvc/?username=mchaaben3&label=Profile%20views&color=080505&style=flat"/>
