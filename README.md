@@ -39,6 +39,7 @@
 <img align="left" alt="Vue" width="26px" style="padding-right:10px;"  src="https://img.icons8.com/color/48/000000/vue-js.png"/>
 <img align="left" alt="LaraVel" width="26px"  style="padding-right:10px;"  src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/laravel.svg"/>
 
+<img align="left" alt="gitlab" width="26px"  style="padding-right:10px;"  src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/gitlab.svg"/>
 
 
 
