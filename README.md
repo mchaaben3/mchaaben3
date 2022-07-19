@@ -18,8 +18,7 @@
 ### Connect with me:
 
 
-[![website](./assets/linkedin-light.svg)](https://www.linkedin.com/in/mahdi-chaaben-4a0815159)
-[![website](./assets/linkedin-dark.svg)](https://www.linkedin.com/in/mahdi-chaaben-4a0815159) 
+[![website](https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/linkedin-round-line-color.svg)](https://www.linkedin.com/in/mchaaben3) 
 
 
 ### Languages and Tools:
