@@ -41,7 +41,7 @@
 
 <img align="left" alt="gitlab" width="26px"  style="padding-right:10px;"  src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/gitlab.svg"/>
 
-<img align="left" alt="gitlab" width="26px"  style="padding-right:10px;"  src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/react-native.svg"/>
+<img align="left" alt="gitlab" width="26px"  style="padding-right:10px;" src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/react-native.svg" />
 
 <br />
 <br />
