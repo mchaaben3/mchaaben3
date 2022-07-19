@@ -18,8 +18,7 @@
 ### Connect with me:
 
 
-[![website](<img align="left" alt="HTML5" width="26px" src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/linkedin-round-line-color.svg" style="padding-right:10px;" />)](https://www.linkedin.com/in/mchaaben3) 
-
+ <a href="https://linkedin.com/in/mchaaben3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mchaaben3" height="30" width="40" /></a>
 
 ### Languages and Tools:
 
