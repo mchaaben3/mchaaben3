@@ -43,6 +43,8 @@
 
 <img align="left" alt="react-native-app" width="26px"  style="padding-right:10px;" src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/react-native-app.svg" />
 
+<img align="left" alt="figma" width="26px"  style="padding-right:10px;" src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/figma.svg" />
+
 <br />
 <br />
 
