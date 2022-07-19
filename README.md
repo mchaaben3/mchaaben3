@@ -18,7 +18,7 @@
 ### Connect with me:
 
 
-[![website](https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/linkedin-round-line-color.svg)](https://www.linkedin.com/in/mchaaben3) 
+[![website](<img align="left" alt="HTML5" width="26px" src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/linkedin-round-line-color.svg" style="padding-right:10px;" />)](https://www.linkedin.com/in/mchaaben3) 
 
 
 ### Languages and Tools:
