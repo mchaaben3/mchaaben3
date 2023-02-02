@@ -11,8 +11,7 @@
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other Developers
-- 🥅 2022 Goals: Learn more about web3 && AI
-- ⚡ Fun fact: I love to playing BOXING and Games
+
 
 
 ### Connect with me:
